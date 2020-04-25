@@ -131,7 +131,6 @@ dmypy.json
 # input data and models
 input/
 outputs/*.pth
-outputs/saved_images/
 
 # data files
 *.csv
