@@ -131,6 +131,7 @@ dmypy.json
 # input data and models
 input/
 outputs/*.pth
+Approach.md
 
 # data files
 *.csv

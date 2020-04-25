@@ -97,7 +97,7 @@ val_data = DeblurDataset(x_val, y_val, transform)
 trainloader = DataLoader(train_data, batch_size=batch_size, shuffle=True)
 valloader = DataLoader(val_data, batch_size=batch_size, shuffle=False)
 
-model = models.SRCNN().to(device)
+model = models.CNN().to(device)
 print(model)
 
 # the loss function
