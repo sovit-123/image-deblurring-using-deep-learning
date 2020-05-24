@@ -64,9 +64,7 @@ print(len(x_val))
 transform = transforms.Compose([
     transforms.ToPILImage(),
     transforms.Resize((224, 224)),
-    # transforms.Grayscale(num_output_channels=1),
     transforms.ToTensor(),
-    # transforms.Normalize((0.5,), (0.5,)),
 ])
 
 class DeblurDataset(Dataset):
