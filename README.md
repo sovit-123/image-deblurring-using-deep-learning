@@ -43,7 +43,7 @@
 
   **Final Deblurred Image**
 
-  ![](https://github.com/sovit-123/image-deblurring-using-deep-learning/blob/master/outputs/saved_images/val_deblurred49.jpg?raw=true)
+  ![](https://github.com/sovit-123/image-deblurring-using-deep-learning/blob/master/outputs/saved_images/val_deblurred39.jpg?raw=true)
 
 
 
